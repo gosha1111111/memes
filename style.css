@@ -1,0 +1,20 @@
+body {
+  background-color: #e7e191;
+}
+h1 {
+  color: rgb(27, 27, 131);
+  margin-left:  730px;
+}
+.krasa {color: rgb(15, 63, 18);}
+.platums {
+  margin-left: auto;
+  margin-left: auto;
+  width: 880px
+}
+.platums {text-indent: 2em}
+#izmers {
+  front-size: 40px
+}
+table td,th{
+  border: 1px solid black;
+}
